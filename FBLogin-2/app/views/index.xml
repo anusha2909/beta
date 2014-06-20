@@ -1,0 +1,5 @@
+<Alloy>
+	<Window class="container">
+		<LoginButton id = "fbBtn" ns = "Alloy.Globals.fbModule"/>
+	</Window>
+</Alloy>
